@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fdharamshi.github.io/static/css/main.0e8ebf92.chunk.css",
+    "main.js": "/fdharamshi.github.io/static/js/main.a4f9bb1d.chunk.js",
+    "main.js.map": "/fdharamshi.github.io/static/js/main.a4f9bb1d.chunk.js.map",
+    "runtime-main.js": "/fdharamshi.github.io/static/js/runtime-main.a3358716.js",
+    "runtime-main.js.map": "/fdharamshi.github.io/static/js/runtime-main.a3358716.js.map",
+    "static/js/2.d667189d.chunk.js": "/fdharamshi.github.io/static/js/2.d667189d.chunk.js",
+    "static/js/2.d667189d.chunk.js.map": "/fdharamshi.github.io/static/js/2.d667189d.chunk.js.map",
+    "static/js/3.e84af0ef.chunk.js": "/fdharamshi.github.io/static/js/3.e84af0ef.chunk.js",
+    "static/js/3.e84af0ef.chunk.js.map": "/fdharamshi.github.io/static/js/3.e84af0ef.chunk.js.map",
+    "index.html": "/fdharamshi.github.io/index.html",
+    "static/css/main.0e8ebf92.chunk.css.map": "/fdharamshi.github.io/static/css/main.0e8ebf92.chunk.css.map",
+    "static/js/2.d667189d.chunk.js.LICENSE.txt": "/fdharamshi.github.io/static/js/2.d667189d.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/fdharamshi.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3358716.js",
+    "static/js/2.d667189d.chunk.js",
+    "static/css/main.0e8ebf92.chunk.css",
+    "static/js/main.a4f9bb1d.chunk.js"
+  ]
+}
