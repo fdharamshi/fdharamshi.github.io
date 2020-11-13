@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fdharamshi.github.io/static/css/main.95cac8c9.chunk.css",
-    "main.js": "/fdharamshi.github.io/static/js/main.9f4541b0.chunk.js",
-    "main.js.map": "/fdharamshi.github.io/static/js/main.9f4541b0.chunk.js.map",
+    "main.js": "/fdharamshi.github.io/static/js/main.2985c4b8.chunk.js",
+    "main.js.map": "/fdharamshi.github.io/static/js/main.2985c4b8.chunk.js.map",
     "runtime-main.js": "/fdharamshi.github.io/static/js/runtime-main.a3358716.js",
     "runtime-main.js.map": "/fdharamshi.github.io/static/js/runtime-main.a3358716.js.map",
     "static/js/2.d667189d.chunk.js": "/fdharamshi.github.io/static/js/2.d667189d.chunk.js",
@@ -13,12 +13,12 @@
     "static/css/main.95cac8c9.chunk.css.map": "/fdharamshi.github.io/static/css/main.95cac8c9.chunk.css.map",
     "static/js/2.d667189d.chunk.js.LICENSE.txt": "/fdharamshi.github.io/static/js/2.d667189d.chunk.js.LICENSE.txt",
     "static/media/bubble.0694bcab.png": "/fdharamshi.github.io/static/media/bubble.0694bcab.png",
-    "static/media/mainpicture.6bc4fd59.jpg": "/fdharamshi.github.io/static/media/mainpicture.6bc4fd59.jpg"
+    "static/media/mainpicture.5ea07f3b.jpg": "/fdharamshi.github.io/static/media/mainpicture.5ea07f3b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a3358716.js",
     "static/js/2.d667189d.chunk.js",
     "static/css/main.95cac8c9.chunk.css",
-    "static/js/main.9f4541b0.chunk.js"
+    "static/js/main.2985c4b8.chunk.js"
   ]
 }
