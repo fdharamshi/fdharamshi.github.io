@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.App {
+  overflow: hidden;
+}
+
+.firstLeftDiv {
+  margin: 0;
+  min-height: 500px;
+  height: 100vh;
+  padding: 0;
+}
+
+.firstRightDiv {
+  margin: 0;
+  min-height: 600px;
+  height: 100vh;
+  padding: 0;
+}
+
+.titleName {
+  font-size: 30px;
+  margin: 20px 0 0 20px;
+  /* font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif; */
+  /* font-size: 40px; */
+  /* font-weight: 500; */
+  color: #1e3512;
+  line-height: 35px;
+}
+
+.nicemeetingdiv {
+  position: absolute;
+  top: 50%;
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+}
+
+.nicemeeting {
+  /* font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif; */
+  margin-left: 20px;
+  font-size: 105px;
+  font-weight: 900;
+  line-height: 100px;
+}
+
+.btn_connectIG {
+  margin-left: 20px;
+  margin-top: 20px;
+  border: 2px solid #1e3512;
+  background-color: transparent;
+  color: #1e3512;
+  padding: 14px 28px;
+  font-size: 26px;
+  cursor: pointer;
+  transition: all 0.4s;
+  border-radius: 5px;
+  /* box-shadow: 1px 1px 20px -2px grey; */
+  box-shadow: 10px 10px 20px -15px #000000;
+}
+
+.btn_connectIG:hover {
+  color: white;
+  background-color: #1e3512;
+}
+
+.socialDiv {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  -ms-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
+}
+
+.socialDiv a {
+  margin-left: 30px;
+}
+
+.socialDiv img {
+  height: 32px;
+}
+
+.quickLinkWrapper {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 100%;
+
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; */
+}
+
+.quickLinkWrapper a {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-decoration: none;
+}
+
+.btn_quicklink {
+  background-color: #00000035;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: 2px solid #00000099;
+  border-radius: 8px;
+  color: white;
+  font-size: 25px;
+  width: 75%;
+  padding: 7px 10px;
+  font-weight: 500;
+  transition: all 0.4s;
+}
+
+.btn_quicklink:hover {
+  background-color: #ffffff35;
+}
+
+@media (max-width: 500px) {
+  .titleName {
+    font-size: 25px;
+    margin: 20px 0 0 20px;
+    color: #1e3512;
+    line-height: 25px;
+  }
+
+  .nicemeeting {
+    font-size: 65px;
+    line-height: 55px;
+  }
+
+  .socialDiv a {
+    margin-left: 15px;
+  }
+
+  .btn_connectIG {
+    padding: 10px 24px;
+    font-size: 18px;
+  }
+
+  .btn_quicklink {
+    font-size: 18px;
+    width: 75%;
+    font-weight: 500;
+  }
+}
+
+@media (orientation: portrait) {
+  .firstLeftDiv {
+    height: 90vh;
+  }
+
+  .firstRightDiv {
+    height: 90vh;
+  }
+}
