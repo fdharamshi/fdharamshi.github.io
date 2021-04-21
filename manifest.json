@@ -1,11 +1,11 @@
 {
-    "name": "femindharamshi",
-    "short_name": "femindharamshi",
+    "name": "Femin Dharamshi",
+    "short_name": "Femin Dharamshi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Femin Dharamshi Portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
