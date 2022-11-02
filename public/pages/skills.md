@@ -1,32 +1,43 @@
 # 💻 Skills
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+## Frameworks and SDKs
+- Android Development (Java)
+- Flutter Cross-Platform App Development
+- iOS App Development (Swift)
+- Node.js / Express.js
+- Django
+- React.js
+- Vert.x
+- Spring
 
 ## Programming languages
-- C# .NET
-- Python
+- Java
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+  - Node.js
+- Swift
+- Dart
+- Python
+  - Django
 
 ## Databases
-- MSSQL
-- PostgreSQL
 - MySQL
 - SQLite
+- Firebase
+- MongoDB
 
 ## Cloud
+- AWS
 - Azure
 - GCP
 - Heroku
-- Render
+- Docker & Kubernetes
+- Terraform
 
 ## Vcs
 - Git
+
+## Other
+- Apache Spark
+- Apache Kafka
+- Apache Samza

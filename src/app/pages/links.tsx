@@ -3,7 +3,7 @@ import {
   FaBlog,
   FaGithub,
   FaLinkedin,
-  FaEnvelope,
+  FaEnvelope, FaYoutube,
 } from "react-icons/fa";
 
 export const links = [
@@ -27,14 +27,14 @@ export const links = [
   },
   {
     index: 3,
-    title: "Find me on Medium",
+    title: "Watch me on Youtube",
     href: "https://medium.com/@noworneverev",
-    icon: <FaMedium />,
+    icon: <FaYoutube />,
   },
-  {
-    index: 4,
-    title: "Find me on Blog",
-    href: "https://noworneverev.github.io/blog/",
-    icon: <FaBlog />,
-  },
+  // {
+  //   index: 4,
+  //   title: "Find me on Blog",
+  //   href: "https://noworneverev.github.io/blog/",
+  //   icon: <FaBlog />,
+  // },
 ];

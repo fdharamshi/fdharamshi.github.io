@@ -1,3 +1,5 @@
 # 💬 Languages
-**English**: C1
-**Chinese**: Native
+**English**<br />
+**Hindi**<br />
+**Gujarati**<br />
+**Kutchhi**<br />

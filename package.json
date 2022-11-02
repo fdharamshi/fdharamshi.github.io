@@ -1,7 +1,7 @@
 {
   "name": "react-vscode-portfolio",
   "version": "0.1.0",
-  "homepage": "https://noworneverev.github.io",
+  "homepage": "https://femindharamshi.com",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -20,6 +20,7 @@
     "react-device-detect": "^2.2.2",
     "react-dom": "^18.1.0",
     "react-ga4": "^1.4.1",
+    "react-github-calendar": "^3.3.4",
     "react-icons": "^4.4.0",
     "react-markdown": "^8.0.3",
     "react-router-dom": "^6.3.0",

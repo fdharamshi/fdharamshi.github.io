@@ -1,0 +1,22 @@
+#main-container {
+    width: 100%;
+    position: relative;
+}
+
+#cmu-header{
+    width: 100%;
+    object-fit: contain;
+}
+
+#my-logo {
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+    bottom: -5vw;
+    left: 5vw;
+}
+
+#title-container {
+    margin-left: 17vw;
+    padding-right: 10vw;
+}
