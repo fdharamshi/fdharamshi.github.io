@@ -14,3 +14,11 @@
 - Received 4.8 stars on the Google Play Store with reviews that showed the results of the usage of the app
 - Conducted a survey amongst (~ 1500) users which showed reduced exam stress by around 50%
 - _**Technologies used:**_ Android Development (Java), Firebase Realtime Database, SQLite
+
+## CrossMyBook 
+[Designs in Figma](https://www.figma.com/proto/6sPYrQWVo20eZIQGUBWb2y/CrossMyBook-HiFi-Design?node-id=92%3A2785&scaling=scale-down&page-id=92%3A2702&starting-point-node-id=92%3A2785&show-proto-sidebar=1)
+- A iOS application for Book Crossing Events
+- Swift on the FrontEnd
+- Django + MySQL on the backend
+
+
