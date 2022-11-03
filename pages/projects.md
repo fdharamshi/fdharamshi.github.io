@@ -13,6 +13,7 @@
 - Pioneered an application for HSC and engineering students to revamp last-minute revision
 - Received 4.8 stars on the Google Play Store with reviews that showed the results of the usage of the app
 - Conducted a survey amongst (~ 1500) users which showed reduced exam stress by around 50%
+- _**Technologies used:**_ Android Development (Java), Firebase Realtime Database, SQLite
 
 [//]: # (## [images-viewer]&#40;https://github.com/noworneverev/images-viewer&#41; 🔗)
 
