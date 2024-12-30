@@ -1,5 +1,24 @@
 # 👨‍💻 Experience
 
+**Software Engineer III** @ [Walmart Global Tech](https://tech.walmart.com/) _(Aug 2024 - Present)_
+- What did I do?
+  - Lead Full Stack Developer at multiple projects in Fraud Detection and Investigations space.
+  - Created Social Network Graph using ReaGraph as the base to display connection between profiles.
+  - Optimized Search Logic that used Solr for associate search to reduce cloud costs by 15%
+- _**Technologies used:**_ React.js, Redux, Zustand, Java Spring Boot, BigQuery, MongoDB
+
+&nbsp;
+
+**Software Engineer** @ [MarketAxess](https://www.marketaxess.com/) _(Jan 2024 - Aug 2024)_ <br>
+**Associate Software Engineer** @ [MarketAxess](https://www.marketaxess.com/) _(Jan 2023 - December 2023)_
+- What did I do?
+  - Spearheaded the implementation of a comprehensive UI Modernization program using React and Java Spring.
+  - Collaboratively resolved critical system bugs with cross-functional teams, enhancing overall system reliability.
+  - Played a crucial role in the successful execution of the UI Modernization program for the Portfolio Trading Team, resulting in a 25% increase in trading efficiency and a marked improvement in user experience.
+- _**Technologies used:**_ React.js, Redux, Java
+
+&nbsp;
+
 **Software Engineer Intern II** @ [MarketAxess](https://www.marketaxess.com/) _(Jun 2022 - Aug 2022)_
 - What did I do?
   - Developed Smart Dealer Selection toolbox leveraging React to provide traders with the best dealer options
